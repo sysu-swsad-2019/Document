@@ -1,6 +1,6 @@
 # 【final】软件工程综合实践实验课程最终报告
 ## 安装包与安装部署说明
-[安装包](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E5%AE%89%E8%A3%85%E5%8C%85.rar)
+[安装包](https://github.com/sysu-swsad-2019/Document/blob/master/img/%E5%AE%89%E8%A3%85%E5%8C%85.zip)
 
 部署说明：
 - 解压后使用微信开发者工具导入项目，AppID使用测试号，项目载入完后应该是自动编译的，假如没有自动编译就Ctrl+S一次，等待一会就在模拟器中运行成功了
